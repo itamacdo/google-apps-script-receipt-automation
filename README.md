@@ -1,6 +1,6 @@
 # Gerador Automático de Recibos – Google Apps Script
 
-## 📌 Visão Geral
+## Visão Geral
 Este projeto automatiza a geração de recibos financeiros utilizando
 o Google Sheets como fonte de dados e o Google Docs para criação dos documentos.
 
@@ -9,7 +9,7 @@ A solução foi desenvolvida em **Google Apps Script**, permitindo uma automaç�
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 - Geração automática de recibos a partir de planilhas
 - Criação de documentos no Google Docs
 - Organização automática de arquivos no Google Drive
@@ -20,7 +20,7 @@ A solução foi desenvolvida em **Google Apps Script**, permitindo uma automaç�
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - Google Apps Script
 - JavaScript
 - Google Sheets
