@@ -29,7 +29,7 @@ A solução foi desenvolvida em **Google Apps Script**, permitindo uma automaç�
 
 ---
 
-## 💼 Caso de Uso
+## Caso de Uso
 Projeto voltado para ambientes administrativos e financeiros que
 necessitam gerar grande volume de documentos de forma padronizada,
 segura e eficiente, reduzindo trabalho manual e riscos de erro.
@@ -42,7 +42,7 @@ Exemplos de aplicação:
 
 ---
 
-## 🧠 Lógica da Solução
+## Lógica da Solução
 1. Leitura automática dos dados da planilha
 2. Validação das informações obrigatórias
 3. Identificação da entidade e do período
@@ -53,7 +53,7 @@ Exemplos de aplicação:
 
 ---
 
-## 🔐 Nota de Segurança
+## Nota de Segurança
 Todos os nomes, dados bancários, identificadores institucionais
 e informações sensíveis foram **anonimizados ou substituídos**
 nesta versão pública, mantendo apenas a lógica e a estrutura do projeto
@@ -61,7 +61,7 @@ para fins de demonstração em portfolio.
 
 ---
 
-## 📈 Aprendizados e Resultados
+## Aprendizados e Resultados
 - Automação completa de um processo manual
 - Redução significativa de tempo operacional
 - Padronização de documentos
